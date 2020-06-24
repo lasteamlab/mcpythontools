@@ -1,3 +1,7 @@
+This is a work in progress to bring mincraftstuff into line with mcpi2 and the pythondsminecraft.jar mod by pinet.rouviere.free.fr
+
+Below is the original README
+
 =========================
 Minecraft - Stuff Library
 =========================
